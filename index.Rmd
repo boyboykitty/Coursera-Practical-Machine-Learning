@@ -186,19 +186,3 @@ With the random forest model, all twenty classifications correctly matched the t
 
 In this report we created three different classification models, using `tree`, `rpart` and `randomForest` for a data set of barbell lifts. We found the `randomForest` model performed the best, approaching accuracy of 99% for the out-of-sample data set. Using this model, we were able to correctly classify all twenty values from the test data set.
 
-## References
-
-<a name="ref1"></a>[1] Dataset [http://groupware.les.inf.puc-rio.br/har](http://groupware.les.inf.puc-rio.br/har)
-
-<a name="ref2"></a>[2] Training data set [https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv)
-
-<a name="ref3"></a>[3] Testing data set [https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv)
-
-<a name="ref4"></a>[4]  Breiman L., Friedman J. H., Olshen R. A., and Stone, C. J. (1984), Classification and Regression Trees. Wadsworth.
-
-<a name="ref5"></a>[5] Ripley, B. D. (1996), Pattern Recognition and Neural Networks., Cambridge University Press, Cambridge. Chapter 7.
-
-<a name="ref6"></a>[6] Breiman, L. (2001), Random Forests, Machine Learning 45(1), 5-32.
-
-<a name="ref7"></a>[7] Breiman, L (2002), Manual On Setting Up, Using, And Understanding Random Forests V3.1, [ http://oz.berkeley.edu/users/breiman/Using_random_forests_V3.1.pdf]( http://oz.berkeley.edu/users/breiman/Using_random_forests_V3.1.pdf)
-
